@@ -1,7 +1,3 @@
-Here's a detailed README file for your `SkillTokenization` smart contract, including the vision, contract address, features, and future scope of the project:
-
----
-
 # Skill Tokenization Smart Contract
 
 ## Vision
@@ -10,8 +6,7 @@ The **Skill Tokenization** project aims to create a decentralized learning ecosy
 
 ## Contract Address
 
-- **Contract Address**: `0xYourContractAddressHere`  
-*(Replace this with the actual deployed contract address on the Aptos blockchain.)*
+- **Contract Address**: `0x70439e09edfb246d9c6d4db751f5ed351af558d3a94526fedbcab08f1990a5a8`  
 
 ## Features
 
