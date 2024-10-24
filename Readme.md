@@ -63,5 +63,8 @@ To deploy and test the `SkillTokenization` smart contract, follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+![Screenshot 2024-10-24 131238](https://github.com/user-attachments/assets/79368459-a9e9-4f74-8600-5b5a2f653180)
+
+
 
 
