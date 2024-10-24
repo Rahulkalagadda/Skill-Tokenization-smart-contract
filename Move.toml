@@ -1,0 +1,16 @@
+[package]
+name = "voting-dapp"
+version = "1.0.0"
+authors = []
+
+[addresses]
+
+SkillTokenization = "0x2d794cd53b362c0c1a0323dd528b88cca07748b618219727438b9b2e56aa5552"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
