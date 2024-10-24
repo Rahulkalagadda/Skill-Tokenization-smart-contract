@@ -6,7 +6,7 @@ The **Skill Tokenization** project aims to create a decentralized learning ecosy
 
 ## Contract Address
 
-- **Contract Address**: `0x70439e09edfb246d9c6d4db751f5ed351af558d3a94526fedbcab08f1990a5a8`  
+**Contract Address**: `0x70439e09edfb246d9c6d4db751f5ed351af558d3a94526fedbcab08f1990a5a8`  
 
 ## Features
 
